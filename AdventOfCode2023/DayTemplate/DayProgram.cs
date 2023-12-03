@@ -21,6 +21,9 @@ public sealed class Day00 : Solver
             
             
         }
+        
+        Console.WriteLine();
+        
     }
     
     [Test]
@@ -34,5 +37,8 @@ public sealed class Day00 : Solver
             
             
         }
+        
+        Console.WriteLine();
+
     }
 }
