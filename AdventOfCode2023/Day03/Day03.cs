@@ -187,7 +187,7 @@ public sealed class Day03 : Solver
         }
         
         Console.WriteLine(sum);
-
+        sum.Should().Be(72246648);
     }
     
     private class SchematicNumber
